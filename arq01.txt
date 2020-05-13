@@ -1,0 +1,9 @@
+Resultado da votação:Foram computados 6 votos 
+
+Jogador  Votos       % 
+
+  3        2       33.33%
+  4        1       16.67%
+  22        3       50.00%
+ 
+O melhor jogador foi o número 22 com 3 votos, correspondendo a 50.00 do total de votos
